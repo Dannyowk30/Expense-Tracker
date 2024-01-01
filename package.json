@@ -1,4 +1,6 @@
 {
+  
+  "homepage":"<https://github.com/Dannyowk30/Expense-Tracker>",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +17,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "homepage":"https://github.com/Dannyowk30/Expense-Tracker",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
     "eject": "react-scripts eject"
